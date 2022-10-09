@@ -331,7 +331,7 @@
      <ITEM name="TopLineAddress">E000E000</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="600" x="688" flags="0000002b" y="620" h="400" pid="100" iid="13">
+   <POPUP w="600" x="688" flags="0000802b" y="620" h="400" pid="100" iid="13">
     <PROPERTIES>
      <ITEM name="CaseSensitive">No</ITEM>
      <ITEM name="DISPADDRS">Yes</ITEM>
